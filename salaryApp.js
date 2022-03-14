@@ -14,7 +14,7 @@ const formatChartData = function (data) {
       key: "unnecessary data",
       values: dataWithUniqueName,
     },
-  ];
+  ]
 };
 
 const getChartItems = function (data) {
